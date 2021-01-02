@@ -1,2 +1,4 @@
 Difference between Git Clone and Git Fork
 Since first you need to fork before cloning, although forking does not come as a strict pre-step for cloning. People of an organization working on a repository do not generally fork the repository. We have created this tutorial just to focus on the difference and make you clear about these two concepts viz. Git Cloning and Git Forking. 
+
+Forking is done on the GitHub Account while Cloning is done using Git. When you fork a repository, you create a copy of the original repository (upstream repository) but the repository remains on your GitHub account. Whereas, when you clone a repository, the repository is copied on to your local machine with the help of Git.
