@@ -28,4 +28,4 @@ review.
 
 ###Copyright
 
-2014 Git.Trainingx.
+2014 Git.Trainingx. All rights reserved.
